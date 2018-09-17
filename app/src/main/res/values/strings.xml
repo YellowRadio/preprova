@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">preprova</string>
+    <string name="jankenpon">JanKenPon</string>
+    <string name="temperatura">Temperatura</string>
+
+    <string-array name="jankenponspin">
+        <item>Pedra</item>
+        <item>Papel</item>
+        <item>Tesoura</item>
+    </string-array>
+</resources>

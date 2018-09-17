@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/opcao1"
+        android:icon="@mipmap/ic_janken"
+        android:title="@string/jankenpon"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/opcao2"
+        android:icon="@mipmap/ic_temperatura"
+        android:title="@string/temperatura"
+        app:showAsAction="always" />
+</menu>
